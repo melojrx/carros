@@ -1,0 +1,1 @@
+Sistema para revenda de carros feito em Django para estudos. 
